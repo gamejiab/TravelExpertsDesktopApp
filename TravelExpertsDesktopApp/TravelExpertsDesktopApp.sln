@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBModels", "DBModels\DBModels.csproj", "{1A00A949-3AC9-46AE-B7CF-227D643A8E94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travel", "Travel\Travel.csproj", "{5B8171F1-84B4-4A1A-AED5-CE17EC089550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A00A949-3AC9-46AE-B7CF-227D643A8E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A00A949-3AC9-46AE-B7CF-227D643A8E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A00A949-3AC9-46AE-B7CF-227D643A8E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A00A949-3AC9-46AE-B7CF-227D643A8E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8171F1-84B4-4A1A-AED5-CE17EC089550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8171F1-84B4-4A1A-AED5-CE17EC089550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8171F1-84B4-4A1A-AED5-CE17EC089550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8171F1-84B4-4A1A-AED5-CE17EC089550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9F2F95-432C-44BB-9111-4A59DF36834C}
+	EndGlobalSection
+EndGlobal
